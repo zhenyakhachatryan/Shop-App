@@ -1,0 +1,10 @@
+FLASK_APP=app.py
+SECRET_KEY = Your_secret_key
+MAIL_SERVER= SMTP_server_address
+MAIL_PORT=SMTP_server_port
+MAIL_USE_TLS=Use TLS encryption (True/False)
+MAIL_USERNAME=Your_SMTP_username
+MAIL_PASSWORD= Your_SMTP_password
+MAIL_DEFAULT_SENDER=Default_sender_email
+GOOGLE_CLIENT_ID=Your_Google OAuth_client ID
+GOOGLE_CLIENT_SECRET=Your_Google OAuth_client secret

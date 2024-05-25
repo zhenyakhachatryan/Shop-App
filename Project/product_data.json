@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "category": "man",
+        "image": "hmgoepprod.jpg",
+        "name": "Straight Regular Jeans",
+        "quantity": 3,
+        "price": 33.99,
+        "description": "Regular-fit, 5-pocket jeans in denim with gentle stretch for added comfort. Regular waist, zip fly, and straight legs with a comfortable, looser feel around legs. Made using Lycra\u00ae Xfit\u00ae technology to provide a 360-degree fit for added freedom of movement",
+        "rate": 5.0,
+        "insert_date": "2024-04-12 20:28:00"
+    },
+    {
+        "id": 2,
+        "category": "woman",
+        "image": "woman_top.jpg",
+        "name": "Gathered Cap-sleeved Top",
+        "quantity": 5,
+        "price": 9.99,
+        "description": "Short, fitted top in ribbed viscose jersey. Delicate boat neck, cap sleeves, and gathered side seams for a ruched effect.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 20:35:00"
+    },
+    {
+        "id": 3,
+        "category": "kid",
+        "image": "kid_boots.jpg",
+        "name": "Waterproof Boots",
+        "quantity": 2,
+        "price": 64.99,
+        "description": "Ankle boots with a waterproof membrane to keep feet dry. Reinforced toe caps and heel caps for extra durability. Lacing at front and a loop at back. Lining in soft velour to keep feet warm, insoles in Cellfit\u2122 technical foam for extra comfort, and chunky.",
+        "rate": 5.0,
+        "insert_date": "2024-04-12 20:40:00"
+    },
+    {
+        "id": 4,
+        "category": "kid",
+        "image": "kid_jeans.jpg",
+        "name": "Bootcut Low Jeans",
+        "quantity": 1,
+        "price": 29.99,
+        "description": "Skinny-fit jeans in superstretch, flexible denim for added freedom of movement. Low waist, adjustable, elasticized waistband for best fit, zip fly with buttons, and front pockets. Wide, flared hems.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 20:49:00"
+    },
+    {
+        "id": 5,
+        "category": "woman",
+        "image": "woman_sneakers.jpg",
+        "name": "Fully-fashioned Sneakers",
+        "quantity": 3,
+        "price": 64.99,
+        "description": "Fully-fashioned sneakers in mesh and coated fabric. Lacing at front, elasticized openings, and loop at front and at back. Mesh insoles and chunky, patterned rubber soles.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 20:51:00"
+    },
+    {
+        "id": 6,
+        "category": "man",
+        "image": "man_shirt.jpg",
+        "name": "Regular Fit Linen-blend Resort Shirt",
+        "quantity": 4,
+        "price": 24.99,
+        "description": "Regular-fit shirt in an airy, woven cotton and linen blend with a comfortable, classic silhouette. Resort collar, buttons without placket, and a chest pocket. Short sleeves and a straight hem with slit at sides. Cotton and linen blends combine the softnes",
+        "rate": 5.0,
+        "insert_date": "2024-04-12 20:54:00"
+    },
+    {
+        "id": 7,
+        "category": "man",
+        "image": "man_jacket.jpg",
+        "name": "Oversized Fit Hooded Jacket",
+        "quantity": 2,
+        "price": 34.99,
+        "description": "Oversized hooded sweatshirt jacket in cotton-blend fabric with soft, brushed inside. Drawstring hood, zipper at front, and kangaroo pockets. Ribbing at cuffs and hem.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 20:57:00"
+    },
+    {
+        "id": 8,
+        "category": "woman",
+        "image": "woman_jacket.jpg",
+        "name": "Tie-Belt Denim Jacket",
+        "quantity": 3,
+        "price": 49.99,
+        "description": "Jacket in rigid cotton denim. Collar, buttons at front, and chest pockets with flap and button. Yoke at back and dropped shoulders. Wide, removable tie belt at waist, open front pockets, and vent at back.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 21:00:00"
+    },
+    {
+        "id": 9,
+        "category": "kid",
+        "image": "kid_dress.jpg",
+        "name": "Patterned Cotton Dress",
+        "quantity": 6,
+        "price": 4.99,
+        "description": "Comfortable, sleeveless dress in soft cotton jersey with a printed pattern. Gathered seam above a gently flared skirt.",
+        "rate": 5.0,
+        "insert_date": "2024-04-12 21:08:00"
+    },
+    {
+        "id": 10,
+        "category": "kid",
+        "image": "kid_shirt.jpg",
+        "name": "Easy-iron Shirt",
+        "quantity": 2,
+        "price": 12.99,
+        "description": "Shirt in woven fabric with an easy-iron finish. Turn-down collar, buttons at front, and double-layered yoke at back. Long sleeves with button at cuffs. Gently rounded hem.",
+        "rate": 5.0,
+        "insert_date": "2024-04-12 21:11:00"
+    },
+    {
+        "id": 11,
+        "category": "woman",
+        "image": "woman_dress.jpg",
+        "name": "Sweatshirt Dress",
+        "quantity": 2,
+        "price": 19.99,
+        "description": "Short, relaxed-fit sweatshirt dress in cotton-blend fabric. Dropped shoulders, long sleeves, and ribbing at neckline, cuffs, and hem.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 21:13:00"
+    },
+    {
+        "id": 12,
+        "category": "man",
+        "image": "man_sneakers.jpg",
+        "name": "Sneakers",
+        "quantity": 3,
+        "price": 56.99,
+        "description": "Sneakers with a padded upper edge, tongue, and lacing at front. Mesh lining, mesh insoles, and chunky, patterned soles. Sole thickness 1 3/4 in.",
+        "rate": 4.5,
+        "insert_date": "2024-04-12 21:20:00"
+    }
+]

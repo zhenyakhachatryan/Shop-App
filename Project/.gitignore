@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+Project.db
+product_data.json/
+user_data.json/
+images/

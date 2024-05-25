@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Admin Register Page</title>
+    
+</head>
+<body>
+    <div class="register-container">
+        <h2>Admin Register</h2>
+        <form action="/admin_register" method="post">
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username" autocomplete="username" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" autocomplete="current-password" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+
+    <script>
+        async function f(){
+            let resp = await fetch("/handle_errors");
+            let data = await resp.json();
+            console.log(data)
+            
+        }
+        f();
+    </script>
+</body> 
+</html> 

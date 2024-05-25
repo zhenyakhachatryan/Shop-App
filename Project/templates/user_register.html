@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> User Register Page</title>
+
+</head>
+<body>
+    <div class="register-container">
+        <h2>User Register</h2>
+        <form action="/user_register" method="post">
+            <label for="username">Userame:</label>
+            <input type="text" id="username" name="username" autocomplete="username" required>
+            <!-- <label for="email">Email:</label>
+            <input type="email" id="email" name="email" autocomplete="email" required> -->
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" autocomplete="current-password" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+        <p>Already have an account?<a href="/user_login">Sign in</a></p>
+        <!-- <a href="/login">Continue with Google</a> -->
+        <script>
+            async function f(){
+                let resp = await fetch("/handle_errors");
+                let data = await resp.json();
+                console.log(data)
+                
+            }
+            f();
+        </script>
+</body>
+</html>

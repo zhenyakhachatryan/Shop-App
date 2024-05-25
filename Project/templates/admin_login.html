@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login Page</title>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Admin Login</h2>
+        <form action="/admin_login" method="post">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" autocomplete="email" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" autocomplete="current-password" required>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+    <p>Forget password?<a href='/reset_password'>Reset password</a></p>
+    <script>
+        async function f(){
+            let resp = await fetch("/handle_errors");
+            let data = await resp.json();
+            console.log(data)
+            
+        }
+        f();
+    </script>
+    
+</body>
+</html>
