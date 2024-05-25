@@ -69,7 +69,7 @@ Welcome to the Shop App! This application is a fully functional e-commerce platf
     ```
 6. Obtain SSL Certificates
    
-7.Configure SSL 
+   7.Configure SSL 
 
 8. Run the application:
 
