@@ -128,16 +128,4 @@ if __name__=='__main__':
         db.create_all()
         db.session.close()
         
-    app.run(debug=True)
-
-#  ssl_context=('C:\\SSL_cert\\cert.pem', 'C:\\SSL_key\\key.pem'),
-
-#   CODE-Y RUN ANELU HAMAR
-
-#   cd C:\Users\Dex\Desktop\project    HAMAKARGCHUM FILE-I TEXY
-#   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-#   venv\Scripts\activate   VIRTUAL ENVIROMENTI AKTIVACUM
-#   python C:\Users\Dex\Desktop\project\Project\app.py    HAMAKARGCHUM FILE-I TEXY
-#   Ctr + c  RUNY DADARACNELU HAMAR
-#   deactivate   VIRTUAL ENVIROMENTI APAKTIVACUM
-#   exit FILEIC DURS GALU HAMAR
+    
